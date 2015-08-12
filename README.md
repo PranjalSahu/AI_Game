@@ -1,4 +1,4 @@
-#A simple C code to demonstrate BFS, DFS, A* algorithms in AI graph search
+#C code to demonstrate BFS, DFS, A* algorithms in AI graph search
 
 List of source files:
 	1.) code.c
